@@ -1,0 +1,2 @@
+Hello Git
+creating sample2.txt from Branch 2 
